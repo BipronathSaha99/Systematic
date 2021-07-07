@@ -42,7 +42,7 @@ Visit this link:
   
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/BipronathSaha99/systematic/blob/main/LICENSE)
 
   
 ## Authors
