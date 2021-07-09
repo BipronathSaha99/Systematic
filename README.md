@@ -15,7 +15,7 @@ Systematic is a PSD website template. In this project this template is designed 
 Install my-project with npm
 
 ```bash
-    npm install bootstrap, popper.js
+    npm install bootstrap, popper.js, jquery@v3.5.1 --save
     npm install systematic
     cd systematic
 
@@ -36,7 +36,7 @@ Visit this link:
 ```bash
         https://bit.ly/systematic-mobile-friendly-check
 ```
-### OS Template PSD file link
+### Systematic PSD file link
 
 - Click on this link: [Systematic Free PSD Template Link](https://bit.ly/Systematic-Tmplate-PSD-link)
   
